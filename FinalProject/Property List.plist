@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>restaurantTexts</key>
+	<string></string>
+	<key>restaurantImages</key>
+	<array>
+		<string>Juliez</string>
+		<string>Ono Steak and Shrimp</string>
+		<string>Koa Pancake House</string>
+		<string>Sushi Bay</string>
+		<string>Taco Bell</string>
+		<string>L&amp;L Hawaiian Barbecue</string>
+	</array>
+</dict>
+</plist>
