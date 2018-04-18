@@ -149,11 +149,11 @@
             </objects>
             <point key="canvasLocation" x="484" y="-311.69415292353824"/>
         </scene>
-        <!--Item 2-->
+        <!--Maps-->
         <scene sceneID="0aS-5l-sPq">
             <objects>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="8Ox-B9-dNr" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Item 2" image="map_marker" id="wBW-f9-Eib"/>
+                    <tabBarItem key="tabBarItem" title="Maps" image="map_marker" id="wBW-f9-Eib"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="8lw-KL-W7M">
                         <rect key="frame" x="0.0" y="20" width="320" height="44"/>

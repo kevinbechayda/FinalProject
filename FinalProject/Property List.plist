@@ -2,8 +2,24 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>restaurantTitles</key>
+	<array>
+		<string>Juliez</string>
+		<string>Ono Steak and Shrimp</string>
+		<string>Sushi Bay</string>
+		<string>Koa Pancake House</string>
+		<string>Taco Bell</string>
+		<string>L&amp;L Hawaiian Barbecue</string>
+	</array>
 	<key>restaurantTexts</key>
-	<string></string>
+	<array>
+		<string>Juliez</string>
+		<string>Ono Steak and Shrimp</string>
+		<string>Koa Pancake House</string>
+		<string>Sushi Bay</string>
+		<string>Taco Bell</string>
+		<string>L&amp;L Hawaiian Barbecue</string>
+	</array>
 	<key>restaurantImages</key>
 	<array>
 		<string>Juliez</string>
