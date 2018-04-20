@@ -15,9 +15,9 @@ class ViewControllerTwo: UIViewController {
     @IBOutlet var mapView: MKMapView!
     
     //set initial location
-    let initialLocation = CLLocation (latitude: 21.338690 , longitude: -158.079146)
+    let initialLocation = CLLocation (latitude: 21.338355 , longitude: -158.079697)
     //set region around UHWO to 1000m
-    let regionRadius: CLLocationDistance = 600
+    let regionRadius: CLLocationDistance = 400
     
     override func viewDidLoad() {
         super.viewDidLoad()
